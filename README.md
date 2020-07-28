@@ -19,3 +19,4 @@
 
 
 ### UML Diagram for Strategy Pattern
+  ![Strategy Pattern](img/StrategyPatternUML.png)
