@@ -22,14 +22,14 @@
 6. Can hide complicated / secret code from the user
 7. Negative: Increased Number of Objects / Classes
 
-
 ### UML Diagram for Strategy Pattern
   ![Strategy Pattern](img/StrategyPatternUML.png)
 
 ---
+
 ## Obeserver Pattern[](#observer-pattern)
 
-### When to use the Strategy Pattern?
+### When to use the Observer Pattern? 
 
 1. When you need many other objects to receive an update when another object changes
    * Examples:
@@ -41,7 +41,7 @@
 3. Negatives: The Subject (publisher) may send updates that don't matter to the Observer (subscriber)
 
 
-### UML Diagram for Strategy Pattern
+### UML Diagram for Observer Pattern
   ![Strategy Pattern](img/ObserverPatternUML.png)
 
 
