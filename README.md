@@ -27,7 +27,7 @@
 
 ---
 
-## Obeserver Pattern[](#observer-pattern)
+## Observer Pattern
 
 ### When to use the Observer Pattern? 
 
