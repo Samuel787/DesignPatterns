@@ -1,0 +1,17 @@
+code smells
+
+1. too many comments (unnecessary)
+2. duplicate code
+3. long method (long body)
+4. Large classes -> god classes, blob classes, blackhole classes
+5. Small classes -> data classes (can place other behavior inside this data classes)
+6. Data clumps -> Many parameters (wrap them in an object) / global variables (but has their own problems)
+7. Divergent change -> changing a class for many reasons
+8. Shotgun surgery -> to make a change, must make changes everywhere
+9. Feature envy -> have features that doesnt belong to itself
+10. Message chains -> Violates Law of demeter:
+a.getB().getC().doSomething();
+11. primitive obsession
+12. switch statements -> oop runtime
+13.Speculative generality
+14. refused bequest
